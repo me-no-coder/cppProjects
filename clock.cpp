@@ -41,4 +41,3 @@ int main()
     }
     return 0;
 }
-//C:\Users\Lenovo\OneDrive - Manipal Academy of Higher Education\Documents\Projects\cppProjects
