@@ -115,7 +115,7 @@ void at_given()
     }
     else
     {
-        if(pos==1)
+        if(pos==0)
         {
             head=head->next;
             delete trav;
